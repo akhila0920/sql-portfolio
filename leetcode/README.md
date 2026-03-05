@@ -1,0 +1,45 @@
+<p align="center">  
+    <br>
+    <a href="https://leetcode.com/problemset/database/">
+        <img width=50% src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FSce7eY8bEu7Xo-64NegbAHaCy%26pid%3DApi&f=1&ipt=0aab10e79c699d7ac6f4712c33491ae692a00e58bdcc087d2c98e0ac9f9aa86c&ipo=images"> 
+    </a>
+    <br>
+    <br>
+</p>
+
+## Description
+
+The compiled solutions encompass all SQL questions, ranging from "Easy" to "Hard", on Leetcode. These solutions were executed on the integrated PostgreSQL environment.
+
+**NOTE**: As of July 2, 2024, the number of questions solved are: 
+
+`Easy - 43`, `Medium - 23`, `Hard - 22` = `Total - 88`.
+
+
+## Table Of Contents
+  - [Easy](easy/)
+
+  - [Medium](medium/)
+
+  - [Hard](hard/)
+
+
+## References / Links
+
+[Leetsync](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd?hl=en&authuser=0) - Extension used for syncing Leetcode problem submissions with a Github repository.
+
+## Contributing
+
+Contributions are always welcome!
+
+If you would like to contribute to the project, please fork the repository and make a pull request.
+
+## Support
+
+If you have any doubts, queries or suggestions, please connect with me via email at abbaganiakhila0920@gmail.com or through LinkedIn.
+
+Do star the repository if it inspired you, gave you ideas of your own or helped you in any way!
+
+## About the Developer
+
+Akhila Abbagani is a Data Analyst with over 3 years of experience delivering analytics, business intelligence, and cloud-based data solutions across healthcare and insurance domains. Specialized in SQL, Python, and Azure, she focuses on building scalable ETL pipelines and transforming complex data into actionable insights to support data-driven business decisions.
